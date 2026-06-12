@@ -1704,7 +1704,7 @@ export default function App() {
         <div style={{ display: "flex", alignItems: "center", gap: 12, flex: 1 }}>
           <div style={S.logoIcon}>🎯</div>
           <div>
-            <div style={{ fontWeight: 700, fontSize: 15, letterSpacing: "-0.02em" }}>JoSAA Decision Tool</div>
+            <div style={{ fontWeight: 700, fontSize: 15, letterSpacing: "-0.02em" }}>JoSAA Decision Tool By Yuwin_2407</div>
             <div style={{ fontSize: 11, color: "#6B7094", marginTop: 1 }}>
               23 IITs · 31 NITs · 25 IIITs · 13 GFTIs · {ALL_DATA.length} programs · 15 years data
             </div>
